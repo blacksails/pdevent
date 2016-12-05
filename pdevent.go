@@ -69,4 +69,5 @@ func (c Client) Resolve(key string) error {
 		EventType:   "resolve",
 		IncidentKey: key,
 	}
+	return c.sendEvent(e)
 }
