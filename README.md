@@ -1,3 +1,4 @@
+[![](https://godoc.org/github.com/blacksails/pdevent?status.svg)](http://godoc.org/github.com/blacksails/pdevent)
 # pdevent
 
 pdevent is a golibrary for communicating with the [Pagerduty Event API](https://v2.developer.pagerduty.com/docs/events-api).
